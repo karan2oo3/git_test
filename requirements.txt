@@ -2,3 +2,4 @@ Flask
 selenium
 gspread
 oauth2client
+gunicorn
